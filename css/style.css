@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+#winScreen {
+    display: none;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 143px;
+}
+
+.popUpWIn {
+    background: white;
+    height: 300px;
+    width: 60%;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
+
+    .popUpWIn h1 {
+        text-transform: uppercase;
+    }
